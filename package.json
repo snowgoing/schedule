@@ -1,0 +1,14 @@
+{
+  "name": "mark",
+  "version": "1.0.0",
+  "description": "webpack_practice",
+  "main": "js/scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mark",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^1.13.1"
+  }
+}
